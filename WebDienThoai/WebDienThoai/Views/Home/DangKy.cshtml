@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "ĐăngKý";
+    Layout = "~/Views/Layout/JustLayout.cshtml";
+}
+
+<script>
+    function phone() {
+        var numberphone = /^\d{3}[-\s]?\d{3}[-\s]?\d{4}$/;
+        if (numberphone.test(document.getElementById('phone')) == false) {
+            alert('Nhập sai số điện thoại')
+        }
+    }
+</script>
+
+
+<div class="col-md-6">
+    <label for="inputAccount" class="form-label">Account</label>
+    <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+</div>
+<div class="col-md-6">
+    <label for="exampleInputEmail1" class="form-label">Email address</label>
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+</div>
+<div class="col-md-6">
+    <label for="inputPassword4" class="form-label">Số Điện thoại</label>
+    <input type="number" class="form-control" id="phoneNumber">
+</div>
+<div class="col-md-6">
+    <label for="inputPassword4" class="form-label">Password</label>
+    <input type="password" class="form-control" id="inputPassword4">
+</div>
+<div class="col-md-6">
+    <label for="inputPassword4" class="form-label">Nhập lại Password</label>
+    <input type="password" class="form-control" id="inputPassword4">
+</div>
+
+<button type="button" class="btn btn-primary" style="margin-top: 20px; margin-left:20px;" onclick="checkphone">Đăng nhập</button>

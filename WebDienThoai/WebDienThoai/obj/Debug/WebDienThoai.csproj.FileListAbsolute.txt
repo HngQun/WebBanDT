@@ -1,0 +1,152 @@
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\WebDienThoai.dll.config
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\WebDienThoai.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\WebDienThoai.pdb
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\csc.exe
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\csc.exe.config
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\csc.rsp
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\csi.exe
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\csi.exe.config
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\csi.rsp
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.AppContext.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Console.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Globalization.Calendars.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.Compression.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Net.Http.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Net.Sockets.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.ValueTuple.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.XPath.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\vbc.exe
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\vbc.exe.config
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\vbc.rsp
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\VBCSCompiler.exe
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Helpers.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Mvc.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Razor.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Deployment.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Razor.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Razor.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Deployment.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Razor.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Helpers.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\System.Web.Mvc.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.csproj.AssemblyReference.cache
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.csproj.CopyComplete
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.pdb
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\EntityFramework.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\EntityFramework.SqlServer.dll
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\EntityFramework.xml
+D:\Study\LapTrinhWeb\WebDienThoai\WebDienThoai\bin\EntityFramework.SqlServer.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\WebDienThoai.dll.config
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\WebDienThoai.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\WebDienThoai.pdb
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\csc.exe
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\csc.exe.config
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\csc.rsp
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\csi.exe
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\csi.exe.config
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\csi.rsp
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.AppContext.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Collections.Immutable.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Console.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Globalization.Calendars.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.Compression.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.FileSystem.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Net.Http.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Net.Sockets.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Reflection.Metadata.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.ValueTuple.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.XPath.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\vbc.exe
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\vbc.exe.config
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\vbc.rsp
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\VBCSCompiler.exe
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\roslyn\VBCSCompiler.exe.config
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\EntityFramework.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\EntityFramework.SqlServer.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\Microsoft.Web.Infrastructure.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Helpers.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Mvc.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Razor.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Deployment.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Razor.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\EntityFramework.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\EntityFramework.SqlServer.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Razor.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Deployment.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Webpages.Razor.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Helpers.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\System.Web.Mvc.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.csproj.AssemblyReference.cache
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.csproj.CoreCompileInputs.cache
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.csproj.CopyComplete
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.dll
+D:\Hoc tap\Lap trinh web\WebDienThoai\WebDienThoai\obj\Debug\WebDienThoai.pdb

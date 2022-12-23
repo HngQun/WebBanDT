@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/JustLayout.cshtml";
+}
+
+
+<div class="container">
+    <div class="row mt-5">
+        <h2 class="list-product-title">Sản phẩm mới</h2>
+        <div class="list-product-subtitle">
+            <p>Danh sách sản phẩm</p>
+        </div>
+        <div class="product-group">
+            <div class="row">
+                <div class="col-md-3 col-sm-6 col-12">
+                    <div class="card card-product mb-3">
+                        <img class="card-img-top" src="~/Content/Img/iphone-13-pink-650x650.png" alt="IP13">
+                        <div class="card-body">
+                            <h5 class="card-title">Iphone 13</h5>
+                            <p class="card-text">Có đủ các loại</p>
+                            <a href="@Url.Action("Detail","Home")" id="text1" class="btn btn-primary" onmouseover="mOver(this)" onmouseout="mOut(this)">22.000$</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-12">
+                    <div class="card card-product mb-3">
+                        <img class="card-img-top" src="~/Content/Img/oppo-a12-3gb-32gb.png" alt="OPa12">
+                        <div class="card-body">
+                            <h5 class="card-title">OPPO a12</h5>
+                            <p class="card-text">Trâu, sang trọng</p>
+                            <a href="@Url.Action("Detail","Home")" id="text2" class="btn btn-primary" onmouseover="mOver(this)" onmouseout="mOut(this)">22.000$</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-12">
+                    <div class="card card-product mb-3">
+                        <img class="card-img-top" src="~/Content/Img/xiaomi-poco-m3.jpg" alt="XIm3">
+                        <div class="card-body">
+                            <h5 class="card-title">Xiaomi Poco m3</h5>
+                            <p class="card-text">Có cả không dây lẫn có dây</p>
+                            <a href="@Url.Action("Detail","Home")" id="text3" class="btn btn-primary" onmouseover="mOver(this)" onmouseout="mOut(this)">22.000$</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6 col-12">
+                    <div class="card card-product mb-3">
+                        <img class="card-img-top" src="~/Content/Img/samsung-galaxy-note-20-ultra.png" style="width:250px; height:260px" alt="Nguoiyeu">
+                        <div class="card-body">
+                            <h5 class="card-title">SamSung 20 ultra</h5>
+                            <p class="card-text">Quá là đẹp luôn</p>
+                            <a href="@Url.Action("Detail","Home")" id="text4" class="btn btn-primary" onmouseover="mOver(this)" onmouseout="mOut(this)">22.000$</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end list product -->
